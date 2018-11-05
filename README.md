@@ -1,2 +1,2 @@
-# My_Resume
-Repository for my Resume
+# My_CV
+Repository for my CV
